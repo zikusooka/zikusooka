@@ -1,4 +1,6 @@
-I am called Joseph Zikusooka (Zik).  I am a software engineer and developer specializing in open source software.
+I am called Joseph Zikusooka (Zik)  
+
+I am a software engineer and developer specializing in open source software.
 
 I have a solid experience building and configuring UNIX/Linux systems and servers.
 
