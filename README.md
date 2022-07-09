@@ -1,4 +1,4 @@
-I am called Joseph Zikusooka (Zik)  
+I am called Joseph Zikusooka.
 
 I am a software engineer and developer specializing in open source software.
 
