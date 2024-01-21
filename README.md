@@ -12,12 +12,12 @@ https://github.com/zikusooka/Jambula-TV
 
 
 Follow me on 
+[!["https://mastodon.social/@jzik"](https://joinmastodon.org/_next/static/media/wordmark-white-text.01e9f493.svg)](https://mastodon.social/@jzik)
+[!["https://twitter.com/jzikusooka"](https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/Twitter.png)](https://twitter.com/jzikusooka)
+[!["https://www.linkedin.com/in/zik-joseph"](https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/LinkedIN.png)](https://www.linkedin.com/in/zik-joseph)
 
-[!["Mastodon"](https://joinmastodon.org/_next/static/media/wordmark-white-text.01e9f493.svg)](https://mastodon.social/@jzik)
-
-Twitter: https://twitter.com/jzikusooka or 
-
-Visit my blog: https://joseph.zikusooka.com
+Visit my blog:
+[!["https://joseph.zikusooka.com"](https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/Wordpress.png)
 
 If you like the content I have created, feel free to share or
 buy me a coffee:
