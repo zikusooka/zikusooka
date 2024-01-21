@@ -6,7 +6,8 @@ I have a solid experience building and configuring UNIX/Linux systems and server
 
 I am passionate about developing software applications and hardware for the smart home
 
-I am currently the project leader at JambulaTV, a smart home automation and entertainment hub: 
+I am currently the project leader at JambulaTV, a smart home automation and entertainment hub:
+
 https://jambulatv.com
 https://github.com/zikusooka/Jambula-TV
 
