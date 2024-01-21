@@ -11,7 +11,7 @@ I am currently the project leader at JambulaTV, a smart home automation and ente
 https://jambulatv.com
 https://github.com/zikusooka/Jambula-TV
 
-[!["https://mastodon.social/@jzik"](https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/mastodon-icon.png)](https://mastodon.social/@jzik)
+[!["https://mastodon.social/@jzik"](https://github.com/The-Mastoget-Organization/brandings-logos-indentities/blob/main/android-chrome-512x512.png?raw=true)](https://mastodon.social/@jzik)
 
 [!["https://twitter.com/jzikusooka"](https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/Twitter.png)](https://twitter.com/jzikusooka)
 
@@ -23,7 +23,6 @@ If you like the content I have created, feel free to share or
 buy me a coffee:
 
 [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://ko-fi.com/jzikusooka)
-
 
 <!---
 zikusooka/zikusooka is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
