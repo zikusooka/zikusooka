@@ -13,7 +13,7 @@ https://jambulatv.com
 https://github.com/zikusooka/Jambula-TV
 
 
-[!["https://mastodon.social/@jzik"](https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/mastodon-icon.png)](https://mastodon.social/@jzik)
+[!["https://mastodon.social/@jzik"](https://img.shields.io/badge/Mastodon-6364FF?style=for-the-badge&logo=Mastodon&logoColor=white)](https://mastodon.social/@jzik)
 
 [!["https://twitter.com/jzikusooka"](https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/Twitter.png)](https://twitter.com/jzikusooka)
 
