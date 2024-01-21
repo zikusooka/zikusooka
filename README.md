@@ -9,9 +9,11 @@ I am passionate about developing software applications and hardware for the smar
 I am currently the project leader at JambulaTV, a smart home automation and entertainment hub:
 
 https://jambulatv.com
+
 https://github.com/zikusooka/Jambula-TV
 
-[!["https://mastodon.social/@jzik"](https://github.com/The-Mastoget-Organization/brandings-logos-indentities/blob/main/android-chrome-512x512.png?raw=true)](https://mastodon.social/@jzik)
+
+[!["https://mastodon.social/@jzik"](https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/mastodon-icon.png)](https://mastodon.social/@jzik)
 
 [!["https://twitter.com/jzikusooka"](https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/Twitter.png)](https://twitter.com/jzikusooka)
 
