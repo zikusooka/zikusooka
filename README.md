@@ -10,9 +10,7 @@ I am currently the project leader at JambulaTV, a smart home automation and ente
 https://jambulatv.com
 https://github.com/zikusooka/Jambula-TV
 
-
-Follow me on 
-[!["https://mastodon.social/@jzik"](https://joinmastodon.org/_next/static/media/wordmark-white-text.01e9f493.svg)](https://mastodon.social/@jzik)
+[!["https://mastodon.social/@jzik"](https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/mastodon-icon.png)](https://mastodon.social/@jzik)
 [!["https://twitter.com/jzikusooka"](https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/Twitter.png)](https://twitter.com/jzikusooka)
 [!["https://www.linkedin.com/in/zik-joseph"](https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/LinkedIN.png)](https://www.linkedin.com/in/zik-joseph)
 
