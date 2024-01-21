@@ -24,7 +24,7 @@ https://github.com/zikusooka/Jambula-TV
 If you like the content I have created, feel free to share or
 buy me a coffee:
 
-[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://ko-fi.com/jzikusooka)
+!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://ko-fi.com/jzikusooka)
 
 <!---
 zikusooka/zikusooka is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
