@@ -8,9 +8,8 @@ I am passionate about developing software applications and hardware for the smar
 
 I am currently the project leader at JambulaTV, a smart home automation and entertainment hub:
 
+https://jambulatv.com
 
-.[!["https://jambulatv.com"](https://jambulatv.com/media/website/JambulaTV_Logo_Colour.svg)](https://jambulatv.com
-)
 
 [!["https://github.com/zikusooka/Jambula-TV"](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/zikusooka/Jambula-TV)
 
