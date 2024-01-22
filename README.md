@@ -14,6 +14,8 @@ https://jambulatv.com
 [!["https://github.com/zikusooka/Jambula-TV"](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/zikusooka/Jambula-TV)
 
 
+To check out what I am up to currently, please follow me:
+
 [!["https://mastodon.social/@jzik"](https://img.shields.io/badge/Mastodon-6364FF?style=for-the-badge&logo=Mastodon&logoColor=white)](https://mastodon.social/@jzik)
 
 [!["https://twitter.com/jzikusooka"](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/jzikusooka)
