@@ -1,4 +1,4 @@
-I am called Joseph Zikusooka (ZIK).
+I am called Joseph Zikusooka (ZIK), founder of Jambula Labs
 
 I am a Linux engineer and software developer specializing in Free/Libre open source software (FLOSS).
 
